@@ -1,7 +1,7 @@
 export default function Dessert() {
   return (
     <>
-      <h1>Dessert</h1>
+      <h2>Dessert</h2>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem voluptatum tempore
         aliquam eius, atque repudiandae nesciunt necessitatibus aperiam. Commodi dolor optio facilis

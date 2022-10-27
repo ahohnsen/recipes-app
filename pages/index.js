@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1>Recipes App</h1>
+      <h2>Home</h2>
       <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente, quod dignissimos non
         iste doloribus exercitationem earum omnis natus nostrum quasi, dicta accusantium aliquam

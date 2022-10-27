@@ -8,7 +8,6 @@ const GlobalStyle = createGlobalStyle`
 body {
   padding: 20px;
   background-color: seagreen;
-  color: white;
 }
 `;
 
